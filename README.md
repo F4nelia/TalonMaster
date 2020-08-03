@@ -1,6 +1,8 @@
 # TalonMaster Storm
 Very rough guide on how I  made my TalonMaster. Not that I recommend trying it, as it uses lots of bits from lots of kits. According to the datasheet the model should have a twin heavy bolter (THB) and twin assualt cannon (TAC) (2 heavy bolters, 2 assault cannons), my rendition has neither of these, instead proxying a hurricane bolter and avenger mega bolter (AMB), because i prefer then aesthetically, and I don't play in proper tournaments . I'll list these parts as optional if you'd rather run *WYSIWYG*.
 
+![TalonMaster](https://github.com/F4nelia/TalonMaster/blob/master/talonmaster.jpg)
+
 ## Tools needed:
 -	Hobby knife
 -	Clippers
